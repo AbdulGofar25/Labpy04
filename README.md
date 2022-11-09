@@ -17,13 +17,10 @@ Selanjutnya saya akan mengurutkan langkah-langkah atau algoritmanya.
 2. ketik program *import random*
 3. Ketik program *for i in range (jumlah):*
 4. Ketik program print("Data ke-", 1+i "=" (random.uniform(0.1,0.5)))
-
-Hasil.
-![Gambar3](Gambar/ss3.png)
-
 5. Masukkan nilai (n) : 5
 6. Program akan mencetak data ke 1 sampai 5 dengan nilai kurang dari 0.5
-
+Hasil.
+![Gambar3](Gambar/ss3.png)
 
 ### B. Penjelasan
 1. jumlah=int(input("Masukkan jumlah *n*")) Untuk menentukan jumlah input yang di inginkan sesuai tipe data, yaitu interger tipe data bilangan bulat.
