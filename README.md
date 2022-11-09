@@ -7,19 +7,19 @@
 
 Bila di implementasikan dengan bahasa Python.<br/>
 program dapat digambarkan seperti dibawah ini.<br/>
-![img 1](image/1.png)
+![Gambar 1](Gambar/ss1.png)
 
 ### A. Langkah-langkah
 Selanjutnya saya akan mengurutkan langkah-langkah atau algoritmanya.
 
-![img 2](image/2.png)
+![Gambar 2](Gambar/ss2.png)
 1. Ketik program *jumlah=int(input("Masukkan jumlah n))*
 2. ketik program *import random*
 3. Ketik program *for i in range (jumlah):*
 4. Ketik program print("Data ke-", 1+i "=" (random.uniform(0.1,0.5)))
 
 Hasil.
-![img 3](image/3.png)
+![Gambar3](Gambar/ss3.png)
 
 5. Masukkan nilai (n) : 5
 6. Program akan mencetak data ke 1 sampai 5 dengan nilai kurang dari 0.5
